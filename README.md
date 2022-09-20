@@ -15,3 +15,10 @@ https://learn.microsoft.com/en-us/azure/postgresql/single-server/concepts-securi
 
 
 https://www.sqlshack.com/getting-started-with-azure-database-for-postgresql/
+
+
+
+CONFIGURATION LINK TO LAUNCH TERRAFORM
+
+
+https://learn.microsoft.com/en-us/azure/developer/terraform/create-resource-group?tabs=azure-cli
